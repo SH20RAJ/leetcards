@@ -1,6 +1,3 @@
-Sure! Here’s a `README.md` for your GitHub repository named "ReadmeCards":
-
-```markdown
 # ReadmeCards
 
 Welcome to **ReadmeCards**! This repository contains various card generators for enhancing your GitHub README. These cards include GitHub stats, LeetCode stats, GeeksforGeeks stats, Twitter stats, Dev.to cards, language badges, and many more.
@@ -110,6 +107,3 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a clear and structured overview of your project, including instructions for using each card generator. Feel free to customize it further based on your specific requirements.
